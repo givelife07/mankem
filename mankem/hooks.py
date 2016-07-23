@@ -11,7 +11,7 @@ app_email = "kolate.sambhaji@gmail.com"
 app_version = "0.0.1"
 app_license = "MIT"
 
-fixtures = ["Custom Field", "Property Setter"]
+fixtures = ["Custom Field", "Property Setter","Print Format"]
 
 doc_events = {
 	"Customer":{
