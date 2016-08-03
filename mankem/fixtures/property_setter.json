@@ -313,19 +313,6 @@
  }, 
  {
   "default_value": null, 
-  "doc_type": "Customer", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "naming_series", 
-  "modified": "2016-08-01 13:00:30.058116", 
-  "name": "Customer-naming_series-default", 
-  "property": "default", 
-  "property_type": "Text", 
-  "value": "CST.YY..###"
- }, 
- {
-  "default_value": null, 
   "doc_type": "Sales Invoice", 
   "docstatus": 0, 
   "doctype": "Property Setter", 
@@ -461,11 +448,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-06-26 19:05:19.053727", 
+  "modified": "2016-08-03 13:46:34.702277", 
   "name": "Quotation-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "QTN.YY..MM.###"
+  "value": "QTN.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -474,11 +461,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-06-26 19:05:46.834915", 
+  "modified": "2016-08-03 13:47:35.977399", 
   "name": "Sales Order-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "SO.YY..MM.###"
+  "value": "SO.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -500,11 +487,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-07-05 09:48:11.482199", 
+  "modified": "2016-08-03 13:46:13.003505", 
   "name": "Purchase Order-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "PO-"
+  "value": "PO.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -513,11 +500,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-07-05 09:48:18.123762", 
+  "modified": "2016-08-03 13:47:08.346743", 
   "name": "Sales Invoice-naming_series-default", 
   "property": "default", 
   "property_type": "Text", 
-  "value": "SINV-"
+  "value": "SIV.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -552,11 +539,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2015-12-02 01:10:06.368138", 
+  "modified": "2016-08-03 13:48:19.302163", 
   "name": "Purchase Invoice-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "PINV-\nPINV-RET-"
+  "value": "PIV.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -565,11 +552,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-07-05 09:48:11.517289", 
+  "modified": "2016-08-03 13:46:13.119684", 
   "name": "Purchase Order-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "PO-"
+  "value": "PO.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -656,11 +643,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2015-12-17 16:11:40.918334", 
+  "modified": "2016-08-03 13:29:54.941232", 
   "name": "Customer-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "CST-"
+  "value": "CST.YY..###"
  }, 
  {
   "default_value": null, 
@@ -734,11 +721,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2016-07-05 09:48:18.151267", 
+  "modified": "2016-08-03 13:47:08.418444", 
   "name": "Sales Invoice-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "SINV-\nSINV-RET-"
+  "value": "SIV.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -747,11 +734,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2015-12-24 09:24:59.537165", 
+  "modified": "2016-08-03 13:46:34.771195", 
   "name": "Quotation-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "QTN-"
+  "value": "QTN.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -760,11 +747,11 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocField", 
   "field_name": "naming_series", 
-  "modified": "2015-12-24 09:25:00.283189", 
+  "modified": "2016-08-03 13:47:36.058724", 
   "name": "Sales Order-naming_series-options", 
   "property": "options", 
   "property_type": "Text", 
-  "value": "SO-"
+  "value": "SO.YY.MM..###"
  }, 
  {
   "default_value": null, 
@@ -1509,19 +1496,6 @@
  }, 
  {
   "default_value": null, 
-  "doc_type": "Purchase Order", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocType", 
-  "field_name": null, 
-  "modified": "2016-03-03 16:03:22.206118", 
-  "name": "Purchase Order-read_only_onload", 
-  "property": "read_only_onload", 
-  "property_type": "Check", 
-  "value": null
- }, 
- {
-  "default_value": null, 
   "doc_type": "Customer", 
   "docstatus": 0, 
   "doctype": "Property Setter", 
@@ -1532,32 +1506,6 @@
   "property": "read_only", 
   "property_type": "Check", 
   "value": "1"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Customer", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocField", 
-  "field_name": "naming_series", 
-  "modified": "2016-06-30 12:12:09.771731", 
-  "name": "Customer-naming_series-reqd", 
-  "property": "reqd", 
-  "property_type": "Check", 
-  "value": "1"
- }, 
- {
-  "default_value": null, 
-  "doc_type": "Customer", 
-  "docstatus": 0, 
-  "doctype": "Property Setter", 
-  "doctype_or_field": "DocType", 
-  "field_name": null, 
-  "modified": "2016-06-30 12:12:25.336459", 
-  "name": "Customer-read_only_onload", 
-  "property": "read_only_onload", 
-  "property_type": "Check", 
-  "value": null
  }, 
  {
   "default_value": null, 
@@ -1652,13 +1600,39 @@
  }, 
  {
   "default_value": null, 
-  "doc_type": "Quotation", 
+  "doc_type": "Customer", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "naming_series", 
+  "modified": "2016-08-03 13:29:54.869599", 
+  "name": "Customer-naming_series-default", 
+  "property": "default", 
+  "property_type": "Text", 
+  "value": "CST.YY..###"
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Purchase Invoice", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "naming_series", 
+  "modified": "2016-08-03 13:48:19.221584", 
+  "name": "Purchase Invoice-naming_series-default", 
+  "property": "default", 
+  "property_type": "Text", 
+  "value": "PIV.YY.MM..###"
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Purchase Order", 
   "docstatus": 0, 
   "doctype": "Property Setter", 
   "doctype_or_field": "DocType", 
   "field_name": null, 
-  "modified": "2016-06-30 12:29:49.233725", 
-  "name": "Quotation-read_only_onload", 
+  "modified": "2016-08-03 14:02:49.084869", 
+  "name": "Purchase Order-read_only_onload", 
   "property": "read_only_onload", 
   "property_type": "Check", 
   "value": null
@@ -1670,8 +1644,60 @@
   "doctype": "Property Setter", 
   "doctype_or_field": "DocType", 
   "field_name": null, 
-  "modified": "2016-07-18 15:12:17.288120", 
+  "modified": "2016-08-03 14:04:36.490627", 
   "name": "Sales Invoice-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Quotation", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2016-08-03 14:41:59.038982", 
+  "name": "Quotation-read_only_onload", 
+  "property": "read_only_onload", 
+  "property_type": "Check", 
+  "value": null
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Customer", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "naming_series", 
+  "modified": "2016-08-03 14:42:17.518000", 
+  "name": "Customer-naming_series-reqd", 
+  "property": "reqd", 
+  "property_type": "Check", 
+  "value": "0"
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Customer", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocField", 
+  "field_name": "naming_series", 
+  "modified": "2016-08-03 14:42:17.676591", 
+  "name": "Customer-naming_series-hidden", 
+  "property": "hidden", 
+  "property_type": "Check", 
+  "value": "1"
+ }, 
+ {
+  "default_value": null, 
+  "doc_type": "Customer", 
+  "docstatus": 0, 
+  "doctype": "Property Setter", 
+  "doctype_or_field": "DocType", 
+  "field_name": null, 
+  "modified": "2016-08-03 14:44:20.090092", 
+  "name": "Customer-read_only_onload", 
   "property": "read_only_onload", 
   "property_type": "Check", 
   "value": null
